@@ -1,0 +1,18 @@
+.loginContainer { 
+    background-color: #fdfdfd ;
+    border-radius: 10px;
+    border:1px solid #dadce0; 
+}
+.img { 
+    margin: auto;
+    width: 100px;
+    height: 100px;
+}
+
+h1 { 
+    font-weight: 600;
+}
+label{ 
+    cursor: pointer;
+    font-size: 19px;
+}
