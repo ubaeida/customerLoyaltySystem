@@ -25,7 +25,8 @@
       <img src="https://user-images.githubusercontent.com/88239135/224562779-354252db-0513-441e-a5cd-678c47ad027f.png" alt="Logo">
 </div>
 <br />
-* Bountiful is a general customer loyalty system that aims to help middle and small businesses to have a platform that attracts customers. 
+
+*   Bountiful is a general customer loyalty system that aims to help middle and small businesses to have a platform that attracts customers. 
       Users earn two kinds of points with any purchase, also they can redeem or share points with others. 
 <br />
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
