@@ -9,12 +9,8 @@
   <p align="center">
     A general customer loyalty system!
     <br />
-    <a href="https://bountiful.ubaeida.com/"><strong>View Demo »</strong></a>
-    <br />
-    <br />
     <a href="https://documenter.getpostman.com/view/22093075/2s93JnTkrH">Project Documentation</a>
     ·
-    <a href="https://payment.ubaeida.com/login">Payment System Demo</a>
   </p>
 </div>
 
