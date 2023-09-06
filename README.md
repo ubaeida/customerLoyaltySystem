@@ -1,6 +1,5 @@
 <a name="readme-top"></a>
 <div align="center">
-  <a href="https://bountiful.ubaeida.com">
     <img src="https://user-images.githubusercontent.com/88239135/224555504-82c78d13-737c-48b2-a70e-c9b2766d3cd0.png" alt="Logo" width="100" height="75">
   </a>
 
